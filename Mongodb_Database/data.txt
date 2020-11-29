@@ -1,0 +1,41 @@
+[
+    {
+        "story": [
+            "https://media.giphy.com/media/3oEjHCCOoYdjv8M6iI/giphy.gif",
+            "https://media.giphy.com/media/l41YlHs99JsSptZf2/giphy.gif",
+            "https://cdn.pixabay.com/photo/2020/11/06/05/33/woman-5716875_960_720.png"
+        ],
+        "_id": "5fc1cf0f16a028242027b264",
+        "name": "Rahul"
+    },
+    {
+        "story": [
+            "https://cdn.pixabay.com/photo/2020/11/04/07/52/pumpkin-5711688_960_720.jpg",
+            "https://cdn.pixabay.com/photo/2020/09/19/11/32/red-rose-5584238_960_720.jpg"
+        ],
+        "_id": "5fc1cf0f16a028242027b265",
+        "name": "Arvind"
+    },
+    {
+        "story": [
+            "https://media.giphy.com/media/3oriNQMjbZTfzJcjTi/giphy.gif"
+        ],
+        "_id": "5fc1cf3116a028242027b266",
+        "name": "Ayush"
+    },
+    {
+        "story": [
+            "https://media.giphy.com/media/3o7TKtcbJXwpvU43hm/giphy.gif"
+        ],
+        "_id": "5fc1cf7716a028242027b267",
+        "name": "Navjot"
+    },
+    {
+        "story": [
+            "https://media.giphy.com/media/3LMw5TcZdoNBBPr1M0/giphy.gif"
+        ],
+        "_id": "5fc1d556adf24c23b03486d5",
+        "name": "Pranjal"
+        
+    }
+]
